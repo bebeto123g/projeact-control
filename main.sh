@@ -10,7 +10,7 @@
 
 # Перезапуск всех контейнеров
 #cd /home/nemtzev/projects/giper && git pull && /usr/local/bin/docker-compose restart
-#cd /home/nemtzev/projects/domostroyrf && git pull && /usr/local/bin/docker-compose restart
+cd /home/nemtzev/projects/domostroyrf && git pull && /usr/local/bin/docker-compose restart
 #cd /home/nemtzev/projects/bank && git pull && /usr/local/bin/docker-compose restart
 #cd /home/nemtzev/projects/vgoroden && git pull && /usr/local/bin/docker-compose restart
 
