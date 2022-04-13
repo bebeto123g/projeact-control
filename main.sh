@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-echo $(date  +%Y-%m-%d) $(date +%H:%M:%S)
+#echo $(date  +%Y-%m-%d) $(date +%H:%M:%S)
 
 # Переключение на другие ветки
 #cd /home/nemtzev/projects/giper && git pull && git checkout issue-
