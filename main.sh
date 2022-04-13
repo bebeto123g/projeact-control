@@ -22,7 +22,7 @@ echo $(date  +%Y-%m-%d) $(date +%H:%M:%S)
 #cd /home/nemtzev/projects/vgoroden && git pull && ./assets-rebuild.sh
 
 # Узнать статус гита
-#cd /home/nemtzev/projects/giper && git status
-#cd /home/nemtzev/projects/domostroyrf && git status
-#cd /home/nemtzev/projects/bank && git git status
-#cd /home/nemtzev/projects/vgoroden && git git status
+cd /home/nemtzev/projects/giper && git status
+cd /home/nemtzev/projects/domostroyrf && git status
+cd /home/nemtzev/projects/bank && git git status
+cd /home/nemtzev/projects/vgoroden && git git status
