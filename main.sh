@@ -24,5 +24,5 @@ echo $(date  +%Y-%m-%d) $(date +%H:%M:%S)
 # Узнать статус гита
 cd /home/nemtzev/projects/giper && git status
 cd /home/nemtzev/projects/domostroyrf && git status
-cd /home/nemtzev/projects/bank && git git status
-cd /home/nemtzev/projects/vgoroden && git git status
+cd /home/nemtzev/projects/bank && git status
+cd /home/nemtzev/projects/vgoroden && git status
