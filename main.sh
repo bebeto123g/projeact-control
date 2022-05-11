@@ -4,7 +4,7 @@
 
 # Переключение на другие ветки
 #cd /home/nemtzev/projects/giper && git pull && git checkout issue-d2
-cd /home/nemtzev/projects/domostroyrf && git pull && git checkout issue-d2
+#cd /home/nemtzev/projects/domostroyrf && git pull && git checkout issue-d2
 #cd /home/nemtzev/projects/bank && git pull && git checkout issue-
 #cd /home/nemtzev/projects/vgoroden && git pull && git checkout issue-
 
